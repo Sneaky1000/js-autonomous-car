@@ -1,1 +1,2 @@
 # js-autonomous-car
+This project utilizes neural networks to help a car make the best decision when it comes to dodging obstacles on the road. Using a simple genetic algorithm and some machine learning, this car runs a set number of simulations and saves the best simulation as the safest car. The entire project is done with JavaScript, HTML, and CSS and includes a visualizer for the neural network.
